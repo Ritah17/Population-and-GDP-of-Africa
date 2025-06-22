@@ -42,6 +42,28 @@ Dataset Overview
 - Urbanization trends over time
 - Correlation between Population and GDP
 
+   Tableau Visualizations
+###Dashboard Highlights:
+- **Population Overview**: KPIs, total and annual growth
+- **Country Comparison**: Top 10 most populated
+- **Regional Analysis**: Map and bar charts by region
+- **Trends Over Time**: Line charts of population growth
+- **Interactive Filters**: Country, Region, Year.
+
+  Key Insights
+- Nigeria leads Africa in population size and growth
+- Sub-Saharan countries have the highest growth rates
+- Urbanization is rapidly increasing across most regions
+- North Africa shows more stable, slower growth
+
+  Conclusion
+This analysis supports policymakers, researchers, and development organizations in understanding demographic pressures and planning for urbanization and infrastructure.
+
+**[Download Tableau Dashboard](African_Population_Dashboard.twbx)**  
+**[View Python Script]()**
+
+
+
 
 
   
