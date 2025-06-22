@@ -60,7 +60,7 @@ Dataset Overview
 This analysis supports policymakers, researchers, and development organizations in understanding demographic pressures and planning for urbanization and infrastructure.
 
 **[Download Tableau Dashboard](African_Population_Dashboard.twbx)**  
-**[View Python Script]()**
+**[View Python Script](https://github.com/Ritah17/Population-and-GDP-of-Africa/commit/228539c9610a868dbef9f3928d309f69d2a8b39f)**
 
 
 
