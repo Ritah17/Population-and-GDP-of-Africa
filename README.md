@@ -31,15 +31,17 @@ Dataset Overview
   Data Cleaning & Transformation
 - Removed missing/null values
 - Converted year to `datetime` type
--	Removed duplicates
--	Removed spaces in the”Population” column
+- Removed duplicates
+- Removed spaces in the”Population” column
 
-	Exploratory Data Analysis
-- Population trends by country and year
-- Most and least populated countries
-- Urbanization over time
-- Regional comparisons (West, North, East, etc.)
-- Fastest growing populations
+  Exploratory Data Analysis (Python)
+- Population distribution by year
+- Regional population comparison (North, West, East, etc.)
+- Top 10 most and least populated countries
+- Countries with the fastest population growth
+- Urbanization trends over time
+- Correlation between Population and GDP
+
 
 
   
