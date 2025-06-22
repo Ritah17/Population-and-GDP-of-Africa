@@ -31,6 +31,16 @@ Dataset Overview
   Data Cleaning & Transformation
 - Removed missing/null values
 - Converted year to `datetime` type
-- Created `Population in Millions` and `Growth Rate %`
-- Filtered non-African countries (if any)
-- Standardized text fields
+-	Removed duplicates
+-	Removed spaces in the”Population” column
+
+	Exploratory Data Analysis
+- Population trends by country and year
+- Most and least populated countries
+- Urbanization over time
+- Regional comparisons (West, North, East, etc.)
+- Fastest growing populations
+
+
+  
+
